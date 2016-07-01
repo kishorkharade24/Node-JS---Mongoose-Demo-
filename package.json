@@ -1,0 +1,16 @@
+{
+  "name": "node_mongoose_demo",
+  "version": "1.0.0",
+  "description": "simple demo to intgrate mongoose with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishor Kharade",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.2"
+  }
+}
